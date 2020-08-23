@@ -1,0 +1,7 @@
+.navbar-brand {
+    font-size: 1.5em;
+    margin-left: 1em;
+}
+.navbar-light .navbar-nav .active > .nav-link {
+    color: var(--pink);
+}
